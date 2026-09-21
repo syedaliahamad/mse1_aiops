@@ -1,4 +1,4 @@
-# yuvraj-airflow
+# mse1-airflow
 # Airflow DAG Practical — Terminal Commands
 
 ## 1. Create Project
